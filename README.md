@@ -1,6 +1,6 @@
 # Hi, I'm CJ Harris 👋
 
-Product Solutions Manager in commercial banking by day — technologist in progress 
+Product Solutions Manager in commercial banking by day - technologist in progress 
 always. I hold an MS in MIS and am currently pursuing an MS in AI at Purdue, 
 sitting at the intersection of financial services, AI, and software development.
 
